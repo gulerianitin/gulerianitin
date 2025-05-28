@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gulerianitin
-- 👀 I’m love everything tech related.
+- 👀 I love everything tech related.
 - 🌱 I’m currently building Gen AI Products.
 - 💞️ I’m looking to collaborate on Gen AI projects
 - ⚡ Fun fact: Fun was a one time wonder band.
