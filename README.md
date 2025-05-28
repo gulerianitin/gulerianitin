@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gulerianitin
-- 👀 I’m interested in Technology,
-- 🌱 I’m currently learning AI ML
-- 💞️ I’m looking to collaborate on ML projects
+- 👀 I’m love everything tech related.
+- 🌱 I’m currently building Gen AI Products.
+- 💞️ I’m looking to collaborate on Gen AI projects
 - ⚡ Fun fact: Fun was a one time wonder band.
 
 <!---
